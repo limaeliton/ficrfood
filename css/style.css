@@ -1,0 +1,91 @@
+body{
+  background-image: linear-gradient(#181616, #e05f08);
+}
+section#sobreNos{
+  background-image: linear-gradient(#54220b, #994106);
+}
+nav{
+  background-color: #e05e08;
+}
+section#cardapio, footer, footer a, section#sobreNos{
+  color: aliceblue;
+}
+footer a:hover{
+  color: #4b1a04;
+}
+section#cardapio .card{
+  background-color: #994106;
+  margin: 1rem;
+}
+section#cardapio .card img{
+  margin-top: 0.9rem;
+}
+ul li button:hover{
+  background-color: aliceblue;
+}
+a#garcomBtn{
+  background-color: #4b1a04;
+  color: aliceblue;
+  margin-top: 1rem;
+}
+a#garcomBtn:hover{
+  background-color: aliceblue;
+  color: #4b1a04;
+}
+a#btnCarne, a#btnBebida, a#btnSobremesa, a#btnLanche{
+  background-color: #4b1a04;
+  color: aliceblue;
+}
+a#btnCarne:hover, a#btnBebida:hover, a#btnSobremesa:hover, a#btnLanche:hover{
+  background-color: aliceblue;
+  color: #4b1a04;
+}
+div footer ul li{
+  font-size: 1.5rem;
+}
+h3{
+  border-left: solid 1.5px aliceblue;
+  padding-left: 1rem;
+}
+nav div#opcoes ul li a{
+  color: aliceblue;
+  margin: 1rem;
+  font-size: 1.1rem;  
+}
+div#carrossel img{
+  height: 30rem;
+}
+a#finalizarPedidoBtn{
+  background-color: #4b1a04;
+  color: aliceblue;
+}
+a#finalizarPedidoBtn:hover{
+  background-color: aliceblue;
+  color: #4b1a04;
+}
+div#corpoPedidosModal{
+  background-color: #FD914D;
+}
+div#tituloPedidosModal{
+  background-color: #50210b;
+  color: aliceblue;
+}
+div#rodapePedidosModal{
+  background-color: #50210b;
+}
+a#reservarBtn{
+  background-color: #4b1a04;
+  color: aliceblue;
+}
+a#reservarBtn:hover{
+  background-color: aliceblue;
+  color: #4b1a04;
+}
+a#pagarContaBtn{
+  background-color: #4b1a04;
+  color: aliceblue;
+}
+a#pagarContaBtn:hover{
+  background-color: aliceblue;
+  color: #4b1a04;
+}
